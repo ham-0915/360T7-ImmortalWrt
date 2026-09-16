@@ -3,4 +3,4 @@
 - 移除 ruby 全家桶，释放约 5MB 空间
 - 针对 256MB 内存设备优化配置，保留 zram-swap + MTK_MEMORY_SHRINK_AGGRESS
 - Passwall 保留 SingBox 内核支持
-- 其他代码的优化
+- 其他代码的优化 其他细节修复
