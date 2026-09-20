@@ -1,7 +1,1 @@
-- 新增 lucky / softethervpn / ttyd / quickfile / bandix 等
-- 移除 OpenClash / Cloudflared / SmartDNS / nlbwmon / zerotier 等多余插件
-- 移除 ruby 全家桶，释放约 5MB 空间
-- 针对 256MB 内存设备优化配置，保留 zram-swap，并增加 swapfile  大小。
-- Passwall 保留 SingBox 内核支持
-- 其他代码的优化 其他细节修复
-- 尝试修复无网络的问题
+- 第一次编译，大小控制在80M以内。
