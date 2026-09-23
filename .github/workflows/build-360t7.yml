@@ -84,7 +84,7 @@ jobs:
     - name: 应用 DIY 配置
       run: |
         echo "::group::复制配置文件"
-        cp 360T7/c-360t7.config openwrt/.config
+        cp 360T7/c2-360t7.config openwrt/.config
         chmod +x 360T7/diy-360t7.sh
         echo "::endgroup::"
         echo "::group::执行 diy-360t7.sh"
